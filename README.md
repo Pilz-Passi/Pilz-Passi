@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pascal</h1>
-<h3 align="center">becoming an AWS cloud developer</h3>
+<h3 align="center">becoming an (AWS) Cloud DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilz-passi&label=Profile%20views&color=0e75b6&style=flat" alt="pilz-passi" /> </p>
 
-- 🔭 I’m currently working on [p4ye](https://github.com/Pilz-Passi/py4e)
+- 🔭 I’m currently working on [capstone project]([https://github.com/Pilz-Passi/py4e](https://github.com/Pilz-Passi/Challenge))
 
-- 🌱 I’m currently learning **python, git, AWS**
+- 🌱 I’m currently learning **python, git, AWS Cloud Services**
 
 - 👯 I’m looking to collaborate on **AWS**
 
